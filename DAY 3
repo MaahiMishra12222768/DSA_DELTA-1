@@ -1,0 +1,43 @@
+//Conditional Statements 
+
+//If else statement 
+
+
+#include <iostream>
+using namespace std ; 
+
+int main()
+{
+    int n = 99 ; 
+    /*
+    cout<<"enter score";
+    cin>>n;
+    cout<<endl;
+    if(n <300 ){
+         cout<<"India wins";
+    }
+    else{
+        cout<<"Nepal wins ";
+    }
+*/
+    /*
+    if(cin>>n){
+        cout<<"Maahi ";
+    }
+    else{
+        cout<<"Bhai";
+    }
+    */
+    
+    if(cout<<n){
+        cout<<"Maahi ";
+    }
+    else{
+        cout<<"Bhai ";
+    }
+
+    return 0;
+}
+
+
+// different Pattern printing 
